@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5e20e141a3653b44a074cc159763e18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - popinCanvas: {fileID: 3764225732951576229, guid: d1f28fb715518304ea6d5dec23c9b863, type: 3}
+  - titreTMP: {instanceID: 0}
+  - descriptionTMP: {instanceID: 0}
+  - closeButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

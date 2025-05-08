@@ -1,0 +1,21 @@
+# Fichiers temporaires Unity
+Temp/
+Library/
+Logs/
+UserSettings/
+obj/
+
+# Fichiers de build
+Build/
+Builds/
+
+# Fichiers Visual Studio
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+"@
