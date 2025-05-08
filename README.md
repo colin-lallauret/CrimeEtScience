@@ -6,6 +6,9 @@ _Pour le build ou apporter des modifications :_
 
 1. Installer Vuforia en téléchargeant le fichier depuis ce lien : [com.ptc.vuforia.engine-11.0.4.tgz](https://drive.google.com/file/d/1vlBtiWEbybx9hqwWpNpBnUaf65795YT-/view?usp=sharing)
 2. Une fois le fichier téléchargé, glissez-le dans le dossier `/Packages`
+3. Ouvrir le projet avec Unity Hub (editor version 2022.3.54f1)
+4. Une fois le projet ouvert dans Unity, ce rendre dans `Assets/Scenes`
+5. Drag'n'drop `SampleScene` dans `Hierarchy`
 
 ## Fonctionnement de l'application
 
