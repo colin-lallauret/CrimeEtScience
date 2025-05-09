@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="markerv5_09_rien_bouteille" size="1.000000 1.000000" />
+    <ImageTarget name="markerv4_09_rien_bouteille" size="1.000000 1.000000" />
+    <ImageTarget name="markerv4_06_tracedepas" size="1.000000 1.000000" />
+    <ImageTarget name="markerv3_11_rien_cheveux" size="1.000000 1.000000" />
+    <ImageTarget name="markerv3_10_rien_pas" size="1.000000 1.000000" />
+    <ImageTarget name="markerv3_09_rien_bouteille" size="1.000000 1.000000" />
+    <ImageTarget name="markerv3_08_rien_personnex" size="1.000000 1.000000" />
+    <ImageTarget name="markerv3_07_rien_assiette" size="1.000000 1.000000" />
+    <ImageTarget name="markerv3_06_tracedepas" size="1.000000 1.000000" />
+    <ImageTarget name="markerv3_05_empreintemain" size="1.000000 1.000000" />
     <ImageTarget name="markerv2_11_rien_cheveux" size="1.000000 1.000000" />
     <ImageTarget name="markerv2_10_rien_pas" size="1.000000 1.000000" />
     <ImageTarget name="markerv2_09_rien_bouteille" size="1.000000 1.000000" />

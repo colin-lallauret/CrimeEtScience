@@ -1269,7 +1269,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: markerv2_09_rien_bouteille
+  mTrackableName: markerv5_09_rien_bouteille
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Image_target.xml
   mAspectRatio: 1
@@ -1295,7 +1295,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 376825492}
   mHiddenRoot: {fileID: 0}
-  mTargetName: markerv2_09_rien_bouteille
+  mTargetName: markerv5_09_rien_bouteille
   mDatasetName: Vuforia/Image_target.xml
   mCastedBehaviour: {fileID: 376825492}
   mMeshFilter: {fileID: 0}
@@ -1942,7 +1942,7 @@ Transform:
   m_GameObject: {fileID: 566678588}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.91329885, y: 0.14434312, z: -5.59}
+  m_LocalPosition: {x: 0.91329885, y: 0.12, z: -5.63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2008,7 +2008,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: markerv2_10_rien_pas
+  mTrackableName: markerv3_10_rien_pas
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Image_target.xml
   mAspectRatio: 1
@@ -2034,7 +2034,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 566678592}
   mHiddenRoot: {fileID: 0}
-  mTargetName: markerv2_10_rien_pas
+  mTargetName: markerv3_10_rien_pas
   mDatasetName: Vuforia/Image_target.xml
   mCastedBehaviour: {fileID: 566678592}
   mMeshFilter: {fileID: 0}
@@ -2166,8 +2166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   additionalClickableObject: {fileID: 1400620374}
   secondClickableObject: {fileID: 624843368}
-  message1: "Bienvenue dans l'application de \nsimulation d\u2019une lampe UV.\r.
-    \r"
+  message1: "Bienvenue dans l'application de \nsimulation d\u2019une lampe UV. \r"
   message2: "Tu peux allumer la lampe UV\nen cliquant sur le bouton rouge\n(situ\xE9
     en bas de l'\xE9cran).\r"
   message3: "Tu peux maintenant changer \nla fr\xE9quence de la lumi\xE8re \xE0 l'aide\nde
@@ -5833,7 +5832,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: markerv2_11_rien_cheveux
+  mTrackableName: markerv3_11_rien_cheveux
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Image_target.xml
   mAspectRatio: 1
@@ -5859,7 +5858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1622735694}
   mHiddenRoot: {fileID: 0}
-  mTargetName: markerv2_11_rien_cheveux
+  mTargetName: markerv3_11_rien_cheveux
   mDatasetName: Vuforia/Image_target.xml
   mCastedBehaviour: {fileID: 1622735694}
   mMeshFilter: {fileID: 0}
@@ -5999,7 +5998,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7908110274626161233, guid: b6b5c740521537d4fbaff26d43b158de, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7665810537033038645, guid: b6b5c740521537d4fbaff26d43b158de, type: 3}
       propertyPath: m_ConstrainProportionsScale
@@ -6351,7 +6350,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: markerv2_06_tracedepas
+  mTrackableName: markerv4_06_tracedepas
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Image_target.xml
   mAspectRatio: 1
@@ -6377,7 +6376,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1747588013}
   mHiddenRoot: {fileID: 0}
-  mTargetName: markerv2_06_tracedepas
+  mTargetName: markerv4_06_tracedepas
   mDatasetName: Vuforia/Image_target.xml
   mCastedBehaviour: {fileID: 1747588013}
   mMeshFilter: {fileID: 0}
@@ -6729,7 +6728,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: markerv2_07_rien_assiette
+  mTrackableName: markerv3_07_rien_assiette
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Image_target.xml
   mAspectRatio: 1
@@ -6755,7 +6754,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1774656235}
   mHiddenRoot: {fileID: 0}
-  mTargetName: markerv2_07_rien_assiette
+  mTargetName: markerv3_07_rien_assiette
   mDatasetName: Vuforia/Image_target.xml
   mCastedBehaviour: {fileID: 1774656235}
   mMeshFilter: {fileID: 0}
@@ -7253,7 +7252,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: markerv2_05_empreintemain
+  mTrackableName: markerv3_05_empreintemain
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Image_target.xml
   mAspectRatio: 1
@@ -7279,7 +7278,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1892839245}
   mHiddenRoot: {fileID: 0}
-  mTargetName: markerv2_05_empreintemain
+  mTargetName: markerv3_05_empreintemain
   mDatasetName: Vuforia/Image_target.xml
   mCastedBehaviour: {fileID: 1892839245}
   mMeshFilter: {fileID: 0}
@@ -7447,7 +7446,6 @@ GameObject:
   - component: {fileID: 1996129878}
   - component: {fileID: 1996129877}
   - component: {fileID: 1996129876}
-  - component: {fileID: 1996129881}
   m_Layer: 0
   m_Name: ARCamera
   m_TagString: MainCamera
@@ -7556,18 +7554,6 @@ Transform:
   - {fileID: 782628377}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1996129881
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1996129875}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f9c1f4b2d46b54d4c848ddef1ba22e5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2001101746 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2199580340203360154, guid: faa0d3712874323428fdd5f54f19bca7, type: 3}
