@@ -2169,8 +2169,8 @@ MonoBehaviour:
   message1: "Bienvenue dans l'application de \nsimulation d\u2019une lampe UV. \r"
   message2: "Tu peux allumer la lampe UV\nen cliquant sur le bouton rouge\n(situ\xE9
     en bas de l'\xE9cran).\r"
-  message3: "Tu peux maintenant changer \nla fr\xE9quence de la lumi\xE8re \xE0 l'aide\nde
-    la molette (autour du bouton)."
+  message3: "Tu peux maintenant changer la\nlongueur d\u2019onde de la lumi\xE8re
+    \xE0\n l'aide de la molette (autour du bouton)."
   message4: "Changer la fr\xE9quence permet de \nr\xE9v\xE9ler diff\xE9rentes traces.
     \r"
   message5: "Ton objectif est de scanner\ntoutes les traces pour t'aider\n\xE0 r\xE9soudre
@@ -2184,7 +2184,7 @@ MonoBehaviour:
   message9: "Alors c\u2019est parti ! \nBon courage pour r\xE9soudre\ncette enqu\xEAte.\r"
   voiceMessage1: {fileID: 8300000, guid: 72281bd9d62e772479e02066b2ec0945, type: 3}
   voiceMessage2: {fileID: 8300000, guid: 2e16e9d29e29ad64dadc0ffce0226a6e, type: 3}
-  voiceMessage3: {fileID: 8300000, guid: e4d2c4b1e60a30d4e8b7682a370ac448, type: 3}
+  voiceMessage3: {fileID: 8300000, guid: 2bfd73c0b2e85064b80114caf9af6fa3, type: 3}
   voiceMessage4: {fileID: 8300000, guid: 7aba811c57bcbab4cbf356525eaf3a67, type: 3}
   voiceMessage5: {fileID: 8300000, guid: 6965785e16077234e8b55697abd4f887, type: 3}
   voiceMessage6: {fileID: 8300000, guid: 1b40fd237eb36da48bdb2d1a410d4f8b, type: 3}
